@@ -1,5 +1,5 @@
 # Rest-APi-Token-helper-class-for-authentication-for-laravel
-this class requires you to run
+Before using this class, you need  to run
 ```
 composer require firebase/php-jwt
 
@@ -13,13 +13,13 @@ return[
     ]
 ]
     ?>
-    ```
+```
 
 in your .env add 
 ```
 REST_API_TOKEN 
 ```
-and initialize t to your secretkey
+and initialize this with your secretkey
 
-Make Facade of class and enjoy !!!
+place the files in the required directories
 
